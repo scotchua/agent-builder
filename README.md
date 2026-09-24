@@ -6,7 +6,7 @@ After installing, start with something like: "I want to build an agent that summ
 
 ## Install
 
-**Claude desktop app or claude.ai:** Customize > Skills > + > upload a zip of this folder (without this README), named `agent-builder.skill`. If the upload is refused or the skill cannot run, check that code execution and file creation are turned on in Settings (often under Capabilities).
+**Claude desktop app or claude.ai:** Customize > Skills > + > upload `agent-builder.skill` from the latest release on this repo's Releases page (or a zip of this folder without this README). If the upload is refused or the skill cannot run, check that code execution and file creation are turned on in Settings (often under Capabilities).
 
 **Claude Code:** copy this folder to `~/.claude/skills/agent-builder/`, then start a new session.
 
