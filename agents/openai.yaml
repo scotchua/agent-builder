@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent builder"
+  short_description: "Step-by-step help creating your own tested, reusable agent"
+  default_prompt: "Help me build an agent that"
